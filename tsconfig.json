@@ -3,7 +3,8 @@
     "./tests",
     "./node_modules",
     "./dist",
-    "./mis_backups"
+    "./mis_backups",
+    "./src/ejericioclase-1/countryCapital.ts"
   ],
   "compilerOptions": {
     "target": "ES2024",
